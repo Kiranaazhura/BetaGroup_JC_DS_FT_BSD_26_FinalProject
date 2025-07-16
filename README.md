@@ -1,3 +1,8 @@
+JCDS 2602 Group Beta
+Adrian Irsanda Boestamam
+Kirana Azhura
+Satrio Bagus Prabowo
+
 # **Prediksi Harga Mobil Bekas di Arab Saudi pada Platform Syarah.com Menggunakan Machine Learning**
 
 ## 1. Gambaran Proyek
